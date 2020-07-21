@@ -1,0 +1,138 @@
+2019-11-18 00:00:08,882 WARN org.springframework.web.servlet.DispatcherServlet [http-nio-9090-exec-3] No mapping for GET /webfonts/fa-solid-900.woff2
+2019-11-18 00:00:08,881 WARN org.springframework.web.servlet.DispatcherServlet [http-nio-9090-exec-8] No mapping for GET /webfonts/fa-regular-400.woff2
+2019-11-18 00:00:08,905 WARN org.springframework.web.servlet.DispatcherServlet [http-nio-9090-exec-6] No mapping for GET /webfonts/fa-regular-400.woff
+2019-11-18 00:00:08,905 WARN org.springframework.web.servlet.DispatcherServlet [http-nio-9090-exec-9] No mapping for GET /webfonts/fa-solid-900.woff
+2019-11-18 00:00:58,994 WARN org.springframework.web.servlet.DispatcherServlet [http-nio-9090-exec-10] No mapping for GET /webfonts/fa-regular-400.woff2
+2019-11-18 00:00:58,994 WARN org.springframework.web.servlet.DispatcherServlet [http-nio-9090-exec-7] No mapping for GET /webfonts/fa-solid-900.woff2
+2019-11-18 00:00:59,013 WARN org.springframework.web.servlet.DispatcherServlet [http-nio-9090-exec-4] No mapping for GET /webfonts/fa-solid-900.woff
+2019-11-18 00:00:59,013 WARN org.springframework.web.servlet.DispatcherServlet [http-nio-9090-exec-5] No mapping for GET /webfonts/fa-regular-400.woff
+2019-11-18 00:04:01,756 WARN org.springframework.web.servlet.DispatcherServlet [http-nio-9090-exec-1] No mapping for GET /webfonts/fa-solid-900.woff2
+2019-11-18 00:04:01,756 WARN org.springframework.web.servlet.DispatcherServlet [http-nio-9090-exec-5] No mapping for GET /webfonts/fa-regular-400.woff2
+2019-11-18 00:04:01,776 WARN org.springframework.web.servlet.DispatcherServlet [http-nio-9090-exec-8] No mapping for GET /webfonts/fa-solid-900.woff
+2019-11-18 00:04:01,780 WARN org.springframework.web.servlet.DispatcherServlet [http-nio-9090-exec-3] No mapping for GET /webfonts/fa-regular-400.woff
+2019-11-18 00:07:09,402 WARN org.springframework.web.servlet.DispatcherServlet [http-nio-9090-exec-3] No mapping for GET /webfonts/fa-solid-900.woff2
+2019-11-18 00:07:09,414 WARN org.springframework.web.servlet.DispatcherServlet [http-nio-9090-exec-6] No mapping for GET /webfonts/fa-regular-400.woff2
+2019-11-18 00:07:09,456 WARN org.springframework.web.servlet.DispatcherServlet [http-nio-9090-exec-7] No mapping for GET /webfonts/fa-solid-900.woff
+2019-11-18 00:07:09,473 WARN org.springframework.web.servlet.DispatcherServlet [http-nio-9090-exec-9] No mapping for GET /webfonts/fa-regular-400.woff
+2019-11-18 00:08:05,605 WARN org.springframework.web.servlet.DispatcherServlet [http-nio-9090-exec-7] No mapping for GET /webfonts/fa-solid-900.woff2
+2019-11-18 00:08:05,626 WARN org.springframework.web.servlet.DispatcherServlet [http-nio-9090-exec-9] No mapping for GET /webfonts/fa-regular-400.woff2
+2019-11-18 00:08:05,652 WARN org.springframework.web.servlet.DispatcherServlet [http-nio-9090-exec-1] No mapping for GET /webfonts/fa-solid-900.woff
+2019-11-18 00:08:05,656 WARN org.springframework.web.servlet.DispatcherServlet [http-nio-9090-exec-5] No mapping for GET /webfonts/fa-regular-400.woff
+2019-11-18 00:08:24,911 WARN org.springframework.web.servlet.DispatcherServlet [http-nio-9090-exec-7] No mapping for GET /webfonts/fa-solid-900.woff2
+2019-11-18 00:08:24,915 WARN org.springframework.web.servlet.DispatcherServlet [http-nio-9090-exec-9] No mapping for GET /webfonts/fa-regular-400.woff2
+2019-11-18 00:08:24,926 WARN org.springframework.web.servlet.DispatcherServlet [http-nio-9090-exec-4] No mapping for GET /webfonts/fa-solid-900.woff
+2019-11-18 00:08:24,931 WARN org.springframework.web.servlet.DispatcherServlet [http-nio-9090-exec-5] No mapping for GET /webfonts/fa-regular-400.woff
+2019-11-18 00:08:37,569 WARN org.springframework.web.servlet.DispatcherServlet [http-nio-9090-exec-6] No mapping for GET /webfonts/fa-regular-400.woff2
+2019-11-18 00:08:37,569 WARN org.springframework.web.servlet.DispatcherServlet [http-nio-9090-exec-3] No mapping for GET /webfonts/fa-solid-900.woff2
+2019-11-18 00:08:37,595 WARN org.springframework.web.servlet.DispatcherServlet [http-nio-9090-exec-7] No mapping for GET /webfonts/fa-regular-400.woff
+2019-11-18 00:08:37,605 WARN org.springframework.web.servlet.DispatcherServlet [http-nio-9090-exec-9] No mapping for GET /webfonts/fa-solid-900.woff
+2019-11-18 00:09:11,411 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting InventoryManegementApplication on DESKTOP-LQ0V63B with PID 6932 (E:\java\WorkSpace\inventor_manegement\inventor_manegament\inventory_manegement\target\classes started by PHAN DAT in E:\java\WorkSpace\inventor_manegement\inventor_manegament\inventory_manegement)
+2019-11-18 00:09:11,416 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2019-11-18 00:09:11,497 INFO org.springframework.boot.logging.DeferredLog [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2019-11-18 00:09:11,497 INFO org.springframework.boot.logging.DeferredLog [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2019-11-18 00:09:12,734 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-11-18 00:09:12,941 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Finished Spring Data repository scanning in 190ms. Found 9 repository interfaces.
+2019-11-18 00:09:13,971 INFO org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker [restartedMain] Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$292c8183] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-11-18 00:09:15,133 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 9090 (http)
+2019-11-18 00:09:15,168 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing ProtocolHandler ["http-nio-9090"]
+2019-11-18 00:09:15,183 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting service [Tomcat]
+2019-11-18 00:09:15,184 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.17]
+2019-11-18 00:09:15,874 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2019-11-18 00:09:15,921 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing Spring embedded WebApplicationContext
+2019-11-18 00:09:15,922 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 4425 ms
+2019-11-18 00:09:16,104 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Starting...
+2019-11-18 00:09:16,799 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Start completed.
+2019-11-18 00:09:16,891 INFO org.hibernate.jpa.internal.util.LogHelper [restartedMain] HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-11-18 00:09:17,124 INFO org.hibernate.Version [restartedMain] HHH000412: Hibernate Core {5.3.9.Final}
+2019-11-18 00:09:17,126 INFO org.hibernate.cfg.Environment [restartedMain] HHH000206: hibernate.properties not found
+2019-11-18 00:09:17,387 INFO org.hibernate.annotations.common.reflection.java.JavaReflectionManager [restartedMain] HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-11-18 00:09:17,683 INFO org.hibernate.dialect.Dialect [restartedMain] HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2019-11-18 00:09:18,911 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [restartedMain] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-11-18 00:09:18,937 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2019-11-18 00:09:19,873 WARN org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration [restartedMain] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-11-18 00:09:20,545 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting ProtocolHandler ["http-nio-9090"]
+2019-11-18 00:09:20,600 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 9090 (http) with context path ''
+2019-11-18 00:09:20,603 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started InventoryManegementApplication in 9.937 seconds (JVM running for 10.543)
+2019-11-18 00:09:59,480 INFO org.apache.juli.logging.DirectJDKLog [http-nio-9090-exec-1] A cookie header was received [Ipin; CCName=Đạt Ipin; _xsrf=2|d92db04e|bce534e35bcc92d721aff564f758d17a|1572673186; username-localhost-8889="2|1:0|10:1573878701|23:username-localhost-8889|44:YmY5YTM5YmI5YmU1NDVhODg2NjRhOTBiNzE2YjRhZmI=|1544ef33c6755574cd5bebb8a62c5685076c9212cb71c327b6fc095125fad1d1"; username-localhost-8888="2|1:0|10:1573882335|23:username-localhost-8888|44:MmJmY2UxY2RhNDdjNDBlMThmOGYwZjhlMDA3YmVkN2Q=|ee3af6978cfaa918fbb1000e1e24e02869a3cf3bda54e62f6542c135fa8259b1"; JSESSIONID=0DEE1C0498E5D302D6745D0857B17A89] that contained an invalid cookie. That cookie will be ignored.
+ Note: further occurrences of this error will be logged at DEBUG level.
+2019-11-18 00:09:59,494 INFO org.apache.juli.logging.DirectJDKLog [http-nio-9090-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-11-18 00:09:59,494 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-9090-exec-1] Initializing Servlet 'dispatcherServlet'
+2019-11-18 00:09:59,520 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-9090-exec-1] Completed initialization in 25 ms
+2019-11-18 00:10:02,104 WARN org.springframework.web.servlet.DispatcherServlet [http-nio-9090-exec-9] No mapping for GET /webfonts/fa-solid-900.woff2
+2019-11-18 00:10:02,378 WARN org.springframework.web.servlet.DispatcherServlet [http-nio-9090-exec-10] No mapping for GET /webfonts/fa-regular-400.woff2
+2019-11-18 00:10:02,392 WARN org.springframework.web.servlet.DispatcherServlet [http-nio-9090-exec-1] No mapping for GET /webfonts/fa-solid-900.woff
+2019-11-18 00:10:02,401 WARN org.springframework.web.servlet.DispatcherServlet [http-nio-9090-exec-2] No mapping for GET /webfonts/fa-regular-400.woff
+2019-11-18 00:11:08,000 WARN org.springframework.web.servlet.DispatcherServlet [http-nio-9090-exec-6] No mapping for GET /webfonts/fa-regular-400.woff2
+2019-11-18 00:11:08,001 WARN org.springframework.web.servlet.DispatcherServlet [http-nio-9090-exec-3] No mapping for GET /webfonts/fa-solid-900.woff2
+2019-11-18 00:11:08,028 WARN org.springframework.web.servlet.DispatcherServlet [http-nio-9090-exec-10] No mapping for GET /webfonts/fa-solid-900.woff
+2019-11-18 00:11:08,028 WARN org.springframework.web.servlet.DispatcherServlet [http-nio-9090-exec-7] No mapping for GET /webfonts/fa-regular-400.woff
+2019-11-18 00:19:44,276 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting InventoryManegementApplication on DESKTOP-LQ0V63B with PID 1312 (E:\java\WorkSpace\inventor_manegement\inventor_manegament\inventory_manegement\target\classes started by PHAN DAT in E:\java\WorkSpace\inventor_manegement\inventor_manegament\inventory_manegement)
+2019-11-18 00:19:44,280 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2019-11-18 00:19:44,376 INFO org.springframework.boot.logging.DeferredLog [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2019-11-18 00:19:44,376 INFO org.springframework.boot.logging.DeferredLog [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2019-11-18 00:19:45,841 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-11-18 00:19:46,124 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Finished Spring Data repository scanning in 260ms. Found 9 repository interfaces.
+2019-11-18 00:19:47,531 INFO org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker [restartedMain] Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$63200835] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-11-18 00:19:49,279 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 9090 (http)
+2019-11-18 00:19:49,311 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing ProtocolHandler ["http-nio-9090"]
+2019-11-18 00:19:49,337 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting service [Tomcat]
+2019-11-18 00:19:49,338 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.17]
+2019-11-18 00:19:50,188 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2019-11-18 00:19:50,217 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing Spring embedded WebApplicationContext
+2019-11-18 00:19:50,218 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 5842 ms
+2019-11-18 00:19:50,549 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Starting...
+2019-11-18 00:19:51,942 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Start completed.
+2019-11-18 00:19:52,083 INFO org.hibernate.jpa.internal.util.LogHelper [restartedMain] HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-11-18 00:19:52,538 INFO org.hibernate.Version [restartedMain] HHH000412: Hibernate Core {5.3.9.Final}
+2019-11-18 00:19:52,549 INFO org.hibernate.cfg.Environment [restartedMain] HHH000206: hibernate.properties not found
+2019-11-18 00:19:53,033 INFO org.hibernate.annotations.common.reflection.java.JavaReflectionManager [restartedMain] HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-11-18 00:19:53,415 INFO org.hibernate.dialect.Dialect [restartedMain] HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2019-11-18 00:19:55,507 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [restartedMain] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-11-18 00:19:55,554 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2019-11-18 00:19:57,154 WARN org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration [restartedMain] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-11-18 00:19:58,759 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting ProtocolHandler ["http-nio-9090"]
+2019-11-18 00:19:58,859 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 9090 (http) with context path ''
+2019-11-18 00:19:58,871 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started InventoryManegementApplication in 15.445 seconds (JVM running for 16.145)
+2019-11-18 00:20:07,056 INFO org.apache.juli.logging.DirectJDKLog [http-nio-9090-exec-1] A cookie header was received [Ipin; CCName=Đạt Ipin; _xsrf=2|d92db04e|bce534e35bcc92d721aff564f758d17a|1572673186; username-localhost-8889="2|1:0|10:1573878701|23:username-localhost-8889|44:YmY5YTM5YmI5YmU1NDVhODg2NjRhOTBiNzE2YjRhZmI=|1544ef33c6755574cd5bebb8a62c5685076c9212cb71c327b6fc095125fad1d1"; username-localhost-8888="2|1:0|10:1573882335|23:username-localhost-8888|44:MmJmY2UxY2RhNDdjNDBlMThmOGYwZjhlMDA3YmVkN2Q=|ee3af6978cfaa918fbb1000e1e24e02869a3cf3bda54e62f6542c135fa8259b1"; JSESSIONID=8D39CC8CA0D6010D191EB9DABB785643] that contained an invalid cookie. That cookie will be ignored.
+ Note: further occurrences of this error will be logged at DEBUG level.
+2019-11-18 00:20:07,073 INFO org.apache.juli.logging.DirectJDKLog [http-nio-9090-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-11-18 00:20:07,073 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-9090-exec-1] Initializing Servlet 'dispatcherServlet'
+2019-11-18 00:20:07,106 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-9090-exec-1] Completed initialization in 32 ms
+2019-11-18 00:31:38,483 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting InventoryManegementApplication on DESKTOP-LQ0V63B with PID 5164 (E:\java\WorkSpace\inventor_manegement\inventor_manegament\inventory_manegement\target\classes started by PHAN DAT in E:\java\WorkSpace\inventor_manegement\inventor_manegament\inventory_manegement)
+2019-11-18 00:31:38,491 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2019-11-18 00:31:38,602 INFO org.springframework.boot.logging.DeferredLog [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2019-11-18 00:31:38,602 INFO org.springframework.boot.logging.DeferredLog [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2019-11-18 00:31:40,524 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-11-18 00:31:40,816 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Finished Spring Data repository scanning in 256ms. Found 9 repository interfaces.
+2019-11-18 00:31:41,821 INFO org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker [restartedMain] Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$6e0a86e6] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-11-18 00:31:43,320 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 9090 (http)
+2019-11-18 00:31:43,373 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing ProtocolHandler ["http-nio-9090"]
+2019-11-18 00:31:43,398 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting service [Tomcat]
+2019-11-18 00:31:43,400 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.17]
+2019-11-18 00:31:44,282 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2019-11-18 00:31:44,308 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing Spring embedded WebApplicationContext
+2019-11-18 00:31:44,314 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 5702 ms
+2019-11-18 00:31:44,614 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Starting...
+2019-11-18 00:31:45,608 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Start completed.
+2019-11-18 00:31:45,844 INFO org.hibernate.jpa.internal.util.LogHelper [restartedMain] HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-11-18 00:31:46,108 INFO org.hibernate.Version [restartedMain] HHH000412: Hibernate Core {5.3.9.Final}
+2019-11-18 00:31:46,113 INFO org.hibernate.cfg.Environment [restartedMain] HHH000206: hibernate.properties not found
+2019-11-18 00:31:46,612 INFO org.hibernate.annotations.common.reflection.java.JavaReflectionManager [restartedMain] HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-11-18 00:31:46,947 INFO org.hibernate.dialect.Dialect [restartedMain] HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2019-11-18 00:31:48,839 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [restartedMain] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-11-18 00:31:48,877 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2019-11-18 00:31:50,445 WARN org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration [restartedMain] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-11-18 00:31:51,786 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting ProtocolHandler ["http-nio-9090"]
+2019-11-18 00:31:51,912 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 9090 (http) with context path ''
+2019-11-18 00:31:51,921 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started InventoryManegementApplication in 14.464 seconds (JVM running for 15.263)
+2019-11-18 00:31:52,489 INFO org.apache.juli.logging.DirectJDKLog [http-nio-9090-exec-2] A cookie header was received [Ipin; CCName=Đạt Ipin; _xsrf=2|d92db04e|bce534e35bcc92d721aff564f758d17a|1572673186; username-localhost-8889="2|1:0|10:1573878701|23:username-localhost-8889|44:YmY5YTM5YmI5YmU1NDVhODg2NjRhOTBiNzE2YjRhZmI=|1544ef33c6755574cd5bebb8a62c5685076c9212cb71c327b6fc095125fad1d1"; username-localhost-8888="2|1:0|10:1573882335|23:username-localhost-8888|44:MmJmY2UxY2RhNDdjNDBlMThmOGYwZjhlMDA3YmVkN2Q=|ee3af6978cfaa918fbb1000e1e24e02869a3cf3bda54e62f6542c135fa8259b1"; JSESSIONID=06FBB6AE2C0CE7AC426838EF59F18E89] that contained an invalid cookie. That cookie will be ignored.
+ Note: further occurrences of this error will be logged at DEBUG level.
+2019-11-18 00:31:52,521 INFO org.apache.juli.logging.DirectJDKLog [http-nio-9090-exec-2] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-11-18 00:31:52,522 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-9090-exec-2] Initializing Servlet 'dispatcherServlet'
+2019-11-18 00:31:52,548 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-9090-exec-2] Completed initialization in 25 ms

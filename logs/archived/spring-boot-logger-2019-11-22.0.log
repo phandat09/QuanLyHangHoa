@@ -1,0 +1,335 @@
+2019-11-22 00:35:18,864 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [Thread-10] Closing JPA EntityManagerFactory for persistence unit 'default'
+2019-11-22 00:35:18,880 INFO com.zaxxer.hikari.HikariDataSource [Thread-10] HikariPool-2 - Shutdown initiated...
+2019-11-22 00:35:18,899 INFO com.zaxxer.hikari.HikariDataSource [Thread-10] HikariPool-2 - Shutdown completed.
+2019-11-22 00:35:24,471 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting InventoryManegementApplication on DESKTOP-LQ0V63B with PID 13532 (E:\java\WorkSpace\inventor_manegement\inventor_manegament\inventory_manegement\target\classes started by PHAN DAT in E:\java\WorkSpace\inventor_manegement\inventor_manegament\inventory_manegement)
+2019-11-22 00:35:24,480 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2019-11-22 00:35:24,643 INFO org.springframework.boot.logging.DeferredLog [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2019-11-22 00:35:24,644 INFO org.springframework.boot.logging.DeferredLog [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2019-11-22 00:35:28,039 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-11-22 00:35:28,516 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Finished Spring Data repository scanning in 376ms. Found 9 repository interfaces.
+2019-11-22 00:35:30,369 INFO org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker [restartedMain] Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$6f76873a] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-11-22 00:35:33,003 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 9090 (http)
+2019-11-22 00:35:33,082 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing ProtocolHandler ["http-nio-9090"]
+2019-11-22 00:35:33,147 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting service [Tomcat]
+2019-11-22 00:35:33,148 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.17]
+2019-11-22 00:35:34,283 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2019-11-22 00:35:34,298 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing Spring embedded WebApplicationContext
+2019-11-22 00:35:34,298 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 9654 ms
+2019-11-22 00:35:34,692 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Starting...
+2019-11-22 00:35:36,106 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Start completed.
+2019-11-22 00:35:36,530 INFO org.hibernate.jpa.internal.util.LogHelper [restartedMain] HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-11-22 00:35:36,854 INFO org.hibernate.Version [restartedMain] HHH000412: Hibernate Core {5.3.9.Final}
+2019-11-22 00:35:36,861 INFO org.hibernate.cfg.Environment [restartedMain] HHH000206: hibernate.properties not found
+2019-11-22 00:35:37,492 INFO org.hibernate.annotations.common.reflection.java.JavaReflectionManager [restartedMain] HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-11-22 00:35:38,150 INFO org.hibernate.dialect.Dialect [restartedMain] HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2019-11-22 00:35:40,749 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [restartedMain] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-11-22 00:35:40,830 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2019-11-22 00:35:43,371 WARN org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration [restartedMain] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-11-22 00:35:44,810 INFO org.springframework.security.web.DefaultSecurityFilterChain [restartedMain] Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@668c7d48, org.springframework.security.web.context.SecurityContextPersistenceFilter@264f8fa5, org.springframework.security.web.header.HeaderWriterFilter@567f7e61, org.springframework.security.web.authentication.logout.LogoutFilter@2d6b18c9, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@2b04f2eb, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@146feafa, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@7a84a3bd, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@24ac8bec, org.springframework.security.web.session.SessionManagementFilter@635a69f, org.springframework.security.web.access.ExceptionTranslationFilter@617c492b, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@17de4d5e]
+2019-11-22 00:35:45,922 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting ProtocolHandler ["http-nio-9090"]
+2019-11-22 00:35:46,049 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 9090 (http) with context path ''
+2019-11-22 00:35:46,058 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started InventoryManegementApplication in 23.468 seconds (JVM running for 25.889)
+2019-11-22 00:36:21,076 INFO org.apache.juli.logging.DirectJDKLog [http-nio-9090-exec-1] A cookie header was received [Ipin; CCName=Đạt Ipin; _xsrf=2|d92db04e|bce534e35bcc92d721aff564f758d17a|1572673186; username-localhost-8889="2|1:0|10:1573878701|23:username-localhost-8889|44:YmY5YTM5YmI5YmU1NDVhODg2NjRhOTBiNzE2YjRhZmI=|1544ef33c6755574cd5bebb8a62c5685076c9212cb71c327b6fc095125fad1d1"; username-localhost-8888="2|1:0|10:1573882335|23:username-localhost-8888|44:MmJmY2UxY2RhNDdjNDBlMThmOGYwZjhlMDA3YmVkN2Q=|ee3af6978cfaa918fbb1000e1e24e02869a3cf3bda54e62f6542c135fa8259b1"; JSESSIONID=5276FCB2112D40B063F4B93966006B8C] that contained an invalid cookie. That cookie will be ignored.
+ Note: further occurrences of this error will be logged at DEBUG level.
+2019-11-22 00:36:21,096 INFO org.apache.juli.logging.DirectJDKLog [http-nio-9090-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-11-22 00:36:21,096 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-9090-exec-1] Initializing Servlet 'dispatcherServlet'
+2019-11-22 00:36:21,115 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-9090-exec-1] Completed initialization in 19 ms
+2019-11-22 00:36:46,444 INFO org.hibernate.hql.internal.QueryTranslatorFactoryInitiator [http-nio-9090-exec-10] HHH000397: Using ASTQueryTranslatorFactory
+2019-11-22 00:38:13,088 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [Thread-5] Closing JPA EntityManagerFactory for persistence unit 'default'
+2019-11-22 00:38:13,093 INFO com.zaxxer.hikari.HikariDataSource [Thread-5] HikariPool-1 - Shutdown initiated...
+2019-11-22 00:38:13,124 INFO com.zaxxer.hikari.HikariDataSource [Thread-5] HikariPool-1 - Shutdown completed.
+2019-11-22 00:38:21,473 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting InventoryManegementApplication on DESKTOP-LQ0V63B with PID 13532 (E:\java\WorkSpace\inventor_manegement\inventor_manegament\inventory_manegement\target\classes started by PHAN DAT in E:\java\WorkSpace\inventor_manegement\inventor_manegament\inventory_manegement)
+2019-11-22 00:38:21,474 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2019-11-22 00:38:22,776 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-11-22 00:38:22,942 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Finished Spring Data repository scanning in 165ms. Found 9 repository interfaces.
+2019-11-22 00:38:23,310 INFO org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker [restartedMain] Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$6f76873a] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-11-22 00:38:23,591 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 9090 (http)
+2019-11-22 00:38:23,593 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing ProtocolHandler ["http-nio-9090"]
+2019-11-22 00:38:23,594 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting service [Tomcat]
+2019-11-22 00:38:23,598 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.17]
+2019-11-22 00:38:23,890 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2019-11-22 00:38:23,893 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing Spring embedded WebApplicationContext
+2019-11-22 00:38:23,898 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 2416 ms
+2019-11-22 00:38:24,020 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-2 - Starting...
+2019-11-22 00:38:24,042 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-2 - Start completed.
+2019-11-22 00:38:24,066 INFO org.hibernate.jpa.internal.util.LogHelper [restartedMain] HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-11-22 00:38:24,091 INFO org.hibernate.dialect.Dialect [restartedMain] HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2019-11-22 00:38:24,738 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [restartedMain] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-11-22 00:38:24,755 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2019-11-22 00:38:25,306 WARN org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration [restartedMain] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-11-22 00:38:25,509 INFO org.springframework.security.web.DefaultSecurityFilterChain [restartedMain] Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@2acbe3ca, org.springframework.security.web.context.SecurityContextPersistenceFilter@53afe18d, org.springframework.security.web.header.HeaderWriterFilter@31eee989, org.springframework.security.web.authentication.logout.LogoutFilter@4f611e78, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@60187e7e, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@182852b6, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@5ecc529b, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@64f8415a, org.springframework.security.web.session.SessionManagementFilter@622f3c1, org.springframework.security.web.access.ExceptionTranslationFilter@46a1bdab, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@45278ad8]
+2019-11-22 00:38:25,820 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting ProtocolHandler ["http-nio-9090"]
+2019-11-22 00:38:25,871 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 9090 (http) with context path ''
+2019-11-22 00:38:25,874 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started InventoryManegementApplication in 4.963 seconds (JVM running for 185.705)
+2019-11-22 00:38:25,880 INFO org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
+2019-11-22 00:38:27,628 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [Thread-10] Closing JPA EntityManagerFactory for persistence unit 'default'
+2019-11-22 00:38:27,637 INFO com.zaxxer.hikari.HikariDataSource [Thread-10] HikariPool-2 - Shutdown initiated...
+2019-11-22 00:38:27,683 INFO com.zaxxer.hikari.HikariDataSource [Thread-10] HikariPool-2 - Shutdown completed.
+2019-11-22 00:38:28,686 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting InventoryManegementApplication on DESKTOP-LQ0V63B with PID 13532 (E:\java\WorkSpace\inventor_manegement\inventor_manegament\inventory_manegement\target\classes started by PHAN DAT in E:\java\WorkSpace\inventor_manegement\inventor_manegament\inventory_manegement)
+2019-11-22 00:38:28,688 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2019-11-22 00:38:29,667 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-11-22 00:38:29,770 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Finished Spring Data repository scanning in 101ms. Found 9 repository interfaces.
+2019-11-22 00:38:30,084 INFO org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker [restartedMain] Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$6f76873a] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-11-22 00:38:30,538 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 9090 (http)
+2019-11-22 00:38:30,541 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing ProtocolHandler ["http-nio-9090"]
+2019-11-22 00:38:30,541 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting service [Tomcat]
+2019-11-22 00:38:30,544 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.17]
+2019-11-22 00:38:30,736 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2019-11-22 00:38:30,739 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing Spring embedded WebApplicationContext
+2019-11-22 00:38:30,740 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 2049 ms
+2019-11-22 00:38:30,830 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-3 - Starting...
+2019-11-22 00:38:30,855 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-3 - Start completed.
+2019-11-22 00:38:30,886 INFO org.hibernate.jpa.internal.util.LogHelper [restartedMain] HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-11-22 00:38:30,920 INFO org.hibernate.dialect.Dialect [restartedMain] HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2019-11-22 00:38:32,692 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [restartedMain] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-11-22 00:38:32,705 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2019-11-22 00:38:33,196 WARN org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration [restartedMain] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-11-22 00:38:33,374 INFO org.springframework.security.web.DefaultSecurityFilterChain [restartedMain] Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@fca3a5a, org.springframework.security.web.context.SecurityContextPersistenceFilter@c3acd5a, org.springframework.security.web.header.HeaderWriterFilter@384f3f2e, org.springframework.security.web.authentication.logout.LogoutFilter@64922b65, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@43f8f2dd, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@7dae736d, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@3cd985b9, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@3e88270b, org.springframework.security.web.session.SessionManagementFilter@7e04c2ed, org.springframework.security.web.access.ExceptionTranslationFilter@61b20aea, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@12cdcbcc]
+2019-11-22 00:38:33,628 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting ProtocolHandler ["http-nio-9090"]
+2019-11-22 00:38:33,645 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 9090 (http) with context path ''
+2019-11-22 00:38:33,650 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started InventoryManegementApplication in 5.029 seconds (JVM running for 193.481)
+2019-11-22 00:38:33,665 INFO org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
+2019-11-22 00:38:37,021 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [Thread-16] Closing JPA EntityManagerFactory for persistence unit 'default'
+2019-11-22 00:38:37,023 INFO com.zaxxer.hikari.HikariDataSource [Thread-16] HikariPool-3 - Shutdown initiated...
+2019-11-22 00:38:37,045 INFO com.zaxxer.hikari.HikariDataSource [Thread-16] HikariPool-3 - Shutdown completed.
+2019-11-22 00:38:37,636 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting InventoryManegementApplication on DESKTOP-LQ0V63B with PID 13532 (E:\java\WorkSpace\inventor_manegement\inventor_manegament\inventory_manegement\target\classes started by PHAN DAT in E:\java\WorkSpace\inventor_manegement\inventor_manegament\inventory_manegement)
+2019-11-22 00:38:37,637 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2019-11-22 00:38:38,223 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-11-22 00:38:38,318 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Finished Spring Data repository scanning in 95ms. Found 9 repository interfaces.
+2019-11-22 00:38:38,550 INFO org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker [restartedMain] Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$6f76873a] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-11-22 00:38:38,701 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 9090 (http)
+2019-11-22 00:38:38,703 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing ProtocolHandler ["http-nio-9090"]
+2019-11-22 00:38:38,703 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting service [Tomcat]
+2019-11-22 00:38:38,704 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.17]
+2019-11-22 00:38:38,919 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2019-11-22 00:38:38,922 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing Spring embedded WebApplicationContext
+2019-11-22 00:38:38,922 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 1283 ms
+2019-11-22 00:38:38,984 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-4 - Starting...
+2019-11-22 00:38:39,003 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-4 - Start completed.
+2019-11-22 00:38:39,021 INFO org.hibernate.jpa.internal.util.LogHelper [restartedMain] HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-11-22 00:38:39,046 INFO org.hibernate.dialect.Dialect [restartedMain] HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2019-11-22 00:38:39,453 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [restartedMain] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-11-22 00:38:39,463 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2019-11-22 00:38:39,785 WARN org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration [restartedMain] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-11-22 00:38:39,885 INFO org.springframework.security.web.DefaultSecurityFilterChain [restartedMain] Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@1019d154, org.springframework.security.web.context.SecurityContextPersistenceFilter@4ad1c3f5, org.springframework.security.web.header.HeaderWriterFilter@27a1c02f, org.springframework.security.web.authentication.logout.LogoutFilter@1e502f6, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@394fe0d2, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@6a8cfede, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@4385fb18, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@47a85c5b, org.springframework.security.web.session.SessionManagementFilter@237c3bcd, org.springframework.security.web.access.ExceptionTranslationFilter@20b009b8, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@38e66288]
+2019-11-22 00:38:40,056 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting ProtocolHandler ["http-nio-9090"]
+2019-11-22 00:38:40,094 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 9090 (http) with context path ''
+2019-11-22 00:38:40,098 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started InventoryManegementApplication in 2.517 seconds (JVM running for 199.928)
+2019-11-22 00:38:40,110 INFO org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
+2019-11-22 00:41:01,633 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [Thread-22] Closing JPA EntityManagerFactory for persistence unit 'default'
+2019-11-22 00:41:01,635 INFO com.zaxxer.hikari.HikariDataSource [Thread-22] HikariPool-4 - Shutdown initiated...
+2019-11-22 00:41:01,659 INFO com.zaxxer.hikari.HikariDataSource [Thread-22] HikariPool-4 - Shutdown completed.
+2019-11-22 00:41:02,255 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting InventoryManegementApplication on DESKTOP-LQ0V63B with PID 13532 (E:\java\WorkSpace\inventor_manegement\inventor_manegament\inventory_manegement\target\classes started by PHAN DAT in E:\java\WorkSpace\inventor_manegement\inventor_manegament\inventory_manegement)
+2019-11-22 00:41:02,256 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2019-11-22 00:41:02,750 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-11-22 00:41:02,829 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Finished Spring Data repository scanning in 78ms. Found 9 repository interfaces.
+2019-11-22 00:41:03,029 INFO org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker [restartedMain] Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$6f76873a] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-11-22 00:41:03,183 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 9090 (http)
+2019-11-22 00:41:03,184 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing ProtocolHandler ["http-nio-9090"]
+2019-11-22 00:41:03,185 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting service [Tomcat]
+2019-11-22 00:41:03,185 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.17]
+2019-11-22 00:41:03,385 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2019-11-22 00:41:03,401 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing Spring embedded WebApplicationContext
+2019-11-22 00:41:03,656 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 1396 ms
+2019-11-22 00:41:03,719 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-5 - Starting...
+2019-11-22 00:41:03,733 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-5 - Start completed.
+2019-11-22 00:41:03,751 INFO org.hibernate.jpa.internal.util.LogHelper [restartedMain] HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-11-22 00:41:03,779 INFO org.hibernate.dialect.Dialect [restartedMain] HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2019-11-22 00:41:04,255 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [restartedMain] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-11-22 00:41:04,266 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2019-11-22 00:41:04,587 WARN org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration [restartedMain] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-11-22 00:41:04,679 INFO org.springframework.security.web.DefaultSecurityFilterChain [restartedMain] Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@6d4e5c77, org.springframework.security.web.context.SecurityContextPersistenceFilter@4ccffad2, org.springframework.security.web.header.HeaderWriterFilter@44dfbc34, org.springframework.security.web.authentication.logout.LogoutFilter@285ded7, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@c8a5c0d, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@610a2cfe, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@580d02f7, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@3cdacdad, org.springframework.security.web.session.SessionManagementFilter@3fb2524, org.springframework.security.web.access.ExceptionTranslationFilter@cd42782, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@21d1324e]
+2019-11-22 00:41:04,843 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting ProtocolHandler ["http-nio-9090"]
+2019-11-22 00:41:04,862 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 9090 (http) with context path ''
+2019-11-22 00:41:04,863 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started InventoryManegementApplication in 2.651 seconds (JVM running for 344.695)
+2019-11-22 00:41:04,873 INFO org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
+2019-11-22 00:41:53,660 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [Thread-28] Closing JPA EntityManagerFactory for persistence unit 'default'
+2019-11-22 00:41:53,663 INFO com.zaxxer.hikari.HikariDataSource [Thread-28] HikariPool-5 - Shutdown initiated...
+2019-11-22 00:41:53,691 INFO com.zaxxer.hikari.HikariDataSource [Thread-28] HikariPool-5 - Shutdown completed.
+2019-11-22 00:41:54,310 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting InventoryManegementApplication on DESKTOP-LQ0V63B with PID 13532 (E:\java\WorkSpace\inventor_manegement\inventor_manegament\inventory_manegement\target\classes started by PHAN DAT in E:\java\WorkSpace\inventor_manegement\inventor_manegament\inventory_manegement)
+2019-11-22 00:41:54,311 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2019-11-22 00:41:54,788 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-11-22 00:41:54,875 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Finished Spring Data repository scanning in 87ms. Found 9 repository interfaces.
+2019-11-22 00:41:55,051 INFO org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker [restartedMain] Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$6f76873a] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-11-22 00:41:55,209 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 9090 (http)
+2019-11-22 00:41:55,210 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing ProtocolHandler ["http-nio-9090"]
+2019-11-22 00:41:55,211 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting service [Tomcat]
+2019-11-22 00:41:55,212 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.17]
+2019-11-22 00:41:55,344 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2019-11-22 00:41:55,349 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing Spring embedded WebApplicationContext
+2019-11-22 00:41:55,350 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 1035 ms
+2019-11-22 00:41:55,410 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-6 - Starting...
+2019-11-22 00:41:55,426 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-6 - Start completed.
+2019-11-22 00:41:55,445 INFO org.hibernate.jpa.internal.util.LogHelper [restartedMain] HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-11-22 00:41:55,468 INFO org.hibernate.dialect.Dialect [restartedMain] HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2019-11-22 00:41:55,856 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [restartedMain] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-11-22 00:41:55,864 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2019-11-22 00:41:56,167 WARN org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration [restartedMain] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-11-22 00:41:56,419 INFO org.springframework.security.web.DefaultSecurityFilterChain [restartedMain] Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@12be6c1d, org.springframework.security.web.context.SecurityContextPersistenceFilter@73b098c8, org.springframework.security.web.header.HeaderWriterFilter@2ffd52f4, org.springframework.security.web.authentication.logout.LogoutFilter@31f18ba7, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@39a01f9e, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@3e40ea77, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@7bef65b9, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@3fc57741, org.springframework.security.web.session.SessionManagementFilter@1a7a05d6, org.springframework.security.web.access.ExceptionTranslationFilter@45310188, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@3f822d38]
+2019-11-22 00:41:56,557 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting ProtocolHandler ["http-nio-9090"]
+2019-11-22 00:41:56,570 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 9090 (http) with context path ''
+2019-11-22 00:41:56,574 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started InventoryManegementApplication in 2.31 seconds (JVM running for 396.405)
+2019-11-22 00:41:56,578 INFO org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
+2019-11-22 00:42:00,995 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [Thread-34] Closing JPA EntityManagerFactory for persistence unit 'default'
+2019-11-22 00:42:00,998 INFO com.zaxxer.hikari.HikariDataSource [Thread-34] HikariPool-6 - Shutdown initiated...
+2019-11-22 00:42:01,013 INFO com.zaxxer.hikari.HikariDataSource [Thread-34] HikariPool-6 - Shutdown completed.
+2019-11-22 00:42:01,615 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting InventoryManegementApplication on DESKTOP-LQ0V63B with PID 13532 (E:\java\WorkSpace\inventor_manegement\inventor_manegament\inventory_manegement\target\classes started by PHAN DAT in E:\java\WorkSpace\inventor_manegement\inventor_manegament\inventory_manegement)
+2019-11-22 00:42:01,616 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2019-11-22 00:42:02,029 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-11-22 00:42:02,089 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Finished Spring Data repository scanning in 60ms. Found 9 repository interfaces.
+2019-11-22 00:42:02,239 INFO org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker [restartedMain] Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$6f76873a] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-11-22 00:42:02,393 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 9090 (http)
+2019-11-22 00:42:02,395 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing ProtocolHandler ["http-nio-9090"]
+2019-11-22 00:42:02,409 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting service [Tomcat]
+2019-11-22 00:42:02,410 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.17]
+2019-11-22 00:42:02,505 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2019-11-22 00:42:02,513 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing Spring embedded WebApplicationContext
+2019-11-22 00:42:02,513 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 891 ms
+2019-11-22 00:42:02,592 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-7 - Starting...
+2019-11-22 00:42:02,608 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-7 - Start completed.
+2019-11-22 00:42:02,640 INFO org.hibernate.jpa.internal.util.LogHelper [restartedMain] HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-11-22 00:42:02,661 INFO org.hibernate.dialect.Dialect [restartedMain] HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2019-11-22 00:42:02,983 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [restartedMain] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-11-22 00:42:02,994 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2019-11-22 00:42:03,286 WARN org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration [restartedMain] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-11-22 00:42:03,382 INFO org.springframework.security.web.DefaultSecurityFilterChain [restartedMain] Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@2fcb435c, org.springframework.security.web.context.SecurityContextPersistenceFilter@15f13bab, org.springframework.security.web.header.HeaderWriterFilter@601c0e5f, org.springframework.security.web.authentication.logout.LogoutFilter@2cb8495a, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@73286d2e, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@592713a6, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@59c9902b, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@44b4d18b, org.springframework.security.web.session.SessionManagementFilter@7430269e, org.springframework.security.web.access.ExceptionTranslationFilter@1d5a3813, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@67028830]
+2019-11-22 00:42:03,529 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting ProtocolHandler ["http-nio-9090"]
+2019-11-22 00:42:03,543 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 9090 (http) with context path ''
+2019-11-22 00:42:03,547 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started InventoryManegementApplication in 2.011 seconds (JVM running for 403.377)
+2019-11-22 00:42:03,563 INFO org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
+2019-11-22 00:42:44,348 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [Thread-40] Closing JPA EntityManagerFactory for persistence unit 'default'
+2019-11-22 00:42:44,351 INFO com.zaxxer.hikari.HikariDataSource [Thread-40] HikariPool-7 - Shutdown initiated...
+2019-11-22 00:42:44,372 INFO com.zaxxer.hikari.HikariDataSource [Thread-40] HikariPool-7 - Shutdown completed.
+2019-11-22 00:42:44,935 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting InventoryManegementApplication on DESKTOP-LQ0V63B with PID 13532 (E:\java\WorkSpace\inventor_manegement\inventor_manegament\inventory_manegement\target\classes started by PHAN DAT in E:\java\WorkSpace\inventor_manegement\inventor_manegament\inventory_manegement)
+2019-11-22 00:42:44,936 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2019-11-22 00:42:45,384 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-11-22 00:42:45,450 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Finished Spring Data repository scanning in 66ms. Found 9 repository interfaces.
+2019-11-22 00:42:45,634 INFO org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker [restartedMain] Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$6f76873a] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-11-22 00:42:45,761 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 9090 (http)
+2019-11-22 00:42:45,763 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing ProtocolHandler ["http-nio-9090"]
+2019-11-22 00:42:45,767 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting service [Tomcat]
+2019-11-22 00:42:45,768 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.17]
+2019-11-22 00:42:45,862 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2019-11-22 00:42:45,867 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing Spring embedded WebApplicationContext
+2019-11-22 00:42:45,869 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 929 ms
+2019-11-22 00:42:45,934 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-8 - Starting...
+2019-11-22 00:42:45,949 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-8 - Start completed.
+2019-11-22 00:42:45,970 INFO org.hibernate.jpa.internal.util.LogHelper [restartedMain] HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-11-22 00:42:45,989 INFO org.hibernate.dialect.Dialect [restartedMain] HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2019-11-22 00:42:46,464 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [restartedMain] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-11-22 00:42:46,473 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2019-11-22 00:42:46,909 WARN org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration [restartedMain] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-11-22 00:42:47,098 INFO org.springframework.security.web.DefaultSecurityFilterChain [restartedMain] Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@6d156b39, org.springframework.security.web.context.SecurityContextPersistenceFilter@39c99bcd, org.springframework.security.web.header.HeaderWriterFilter@524b9e2f, org.springframework.security.web.authentication.logout.LogoutFilter@2204e7b7, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@4336077e, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@7ef10d41, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@70455e56, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@75ee4223, org.springframework.security.web.session.SessionManagementFilter@78f54ccd, org.springframework.security.web.access.ExceptionTranslationFilter@2ecd365b, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@207f7a7b]
+2019-11-22 00:42:47,324 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting ProtocolHandler ["http-nio-9090"]
+2019-11-22 00:42:47,337 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 9090 (http) with context path ''
+2019-11-22 00:42:47,340 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started InventoryManegementApplication in 2.475 seconds (JVM running for 447.171)
+2019-11-22 00:42:47,346 INFO org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
+2019-11-22 00:45:25,321 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [Thread-46] Closing JPA EntityManagerFactory for persistence unit 'default'
+2019-11-22 00:45:25,325 INFO com.zaxxer.hikari.HikariDataSource [Thread-46] HikariPool-8 - Shutdown initiated...
+2019-11-22 00:45:25,363 INFO com.zaxxer.hikari.HikariDataSource [Thread-46] HikariPool-8 - Shutdown completed.
+2019-11-22 00:45:26,125 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting InventoryManegementApplication on DESKTOP-LQ0V63B with PID 13532 (E:\java\WorkSpace\inventor_manegement\inventor_manegament\inventory_manegement\target\classes started by PHAN DAT in E:\java\WorkSpace\inventor_manegement\inventor_manegament\inventory_manegement)
+2019-11-22 00:45:26,125 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2019-11-22 00:45:26,627 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-11-22 00:45:26,704 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Finished Spring Data repository scanning in 77ms. Found 9 repository interfaces.
+2019-11-22 00:45:26,849 INFO org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker [restartedMain] Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$6f76873a] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-11-22 00:45:26,981 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 9090 (http)
+2019-11-22 00:45:26,982 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing ProtocolHandler ["http-nio-9090"]
+2019-11-22 00:45:26,983 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting service [Tomcat]
+2019-11-22 00:45:26,983 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.17]
+2019-11-22 00:45:27,128 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2019-11-22 00:45:27,130 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing Spring embedded WebApplicationContext
+2019-11-22 00:45:27,131 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 1000 ms
+2019-11-22 00:45:27,177 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-9 - Starting...
+2019-11-22 00:45:27,201 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-9 - Start completed.
+2019-11-22 00:45:27,220 INFO org.hibernate.jpa.internal.util.LogHelper [restartedMain] HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-11-22 00:45:27,248 INFO org.hibernate.dialect.Dialect [restartedMain] HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2019-11-22 00:52:14,644 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting InventoryManegementApplication on DESKTOP-LQ0V63B with PID 8124 (E:\java\WorkSpace\inventor_manegement\inventor_manegament\inventory_manegement\target\classes started by PHAN DAT in E:\java\WorkSpace\inventor_manegement\inventor_manegament\inventory_manegement)
+2019-11-22 00:52:14,656 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2019-11-22 00:52:14,842 INFO org.springframework.boot.logging.DeferredLog [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2019-11-22 00:52:14,843 INFO org.springframework.boot.logging.DeferredLog [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2019-11-22 00:52:17,874 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-11-22 00:52:18,404 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Finished Spring Data repository scanning in 484ms. Found 9 repository interfaces.
+2019-11-22 00:52:20,390 INFO org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker [restartedMain] Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$d2aaccad] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-11-22 00:52:23,350 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 9090 (http)
+2019-11-22 00:52:23,433 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing ProtocolHandler ["http-nio-9090"]
+2019-11-22 00:52:23,454 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting service [Tomcat]
+2019-11-22 00:52:23,457 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.17]
+2019-11-22 00:52:24,611 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2019-11-22 00:52:24,636 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing Spring embedded WebApplicationContext
+2019-11-22 00:52:24,636 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 9791 ms
+2019-11-22 00:52:25,111 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Starting...
+2019-11-22 00:52:27,201 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Start completed.
+2019-11-22 00:52:27,577 INFO org.hibernate.jpa.internal.util.LogHelper [restartedMain] HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-11-22 00:52:28,034 INFO org.hibernate.Version [restartedMain] HHH000412: Hibernate Core {5.3.9.Final}
+2019-11-22 00:52:28,039 INFO org.hibernate.cfg.Environment [restartedMain] HHH000206: hibernate.properties not found
+2019-11-22 00:52:28,668 INFO org.hibernate.annotations.common.reflection.java.JavaReflectionManager [restartedMain] HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-11-22 00:52:29,213 INFO org.hibernate.dialect.Dialect [restartedMain] HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2019-11-22 00:52:32,120 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [restartedMain] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-11-22 00:52:32,170 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2019-11-22 00:52:34,893 WARN org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration [restartedMain] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-11-22 00:52:36,828 INFO org.springframework.security.web.DefaultSecurityFilterChain [restartedMain] Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@6ba6a5c3, org.springframework.security.web.context.SecurityContextPersistenceFilter@3c3386b8, org.springframework.security.web.header.HeaderWriterFilter@73a9454c, org.springframework.security.web.authentication.logout.LogoutFilter@77c32528, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@38c628b3, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@15ab9823, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@1ba501cb, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@3f3ef3d6, org.springframework.security.web.session.SessionManagementFilter@7d0db10a, org.springframework.security.web.access.ExceptionTranslationFilter@3c838a4f, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@fb9c734]
+2019-11-22 00:52:38,149 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting ProtocolHandler ["http-nio-9090"]
+2019-11-22 00:52:38,308 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 9090 (http) with context path ''
+2019-11-22 00:52:38,313 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started InventoryManegementApplication in 25.394 seconds (JVM running for 28.229)
+2019-11-22 00:52:51,147 INFO org.apache.juli.logging.DirectJDKLog [http-nio-9090-exec-1] A cookie header was received [Ipin; CCName=Đạt Ipin; _xsrf=2|d92db04e|bce534e35bcc92d721aff564f758d17a|1572673186; username-localhost-8889="2|1:0|10:1573878701|23:username-localhost-8889|44:YmY5YTM5YmI5YmU1NDVhODg2NjRhOTBiNzE2YjRhZmI=|1544ef33c6755574cd5bebb8a62c5685076c9212cb71c327b6fc095125fad1d1"; username-localhost-8888="2|1:0|10:1573882335|23:username-localhost-8888|44:MmJmY2UxY2RhNDdjNDBlMThmOGYwZjhlMDA3YmVkN2Q=|ee3af6978cfaa918fbb1000e1e24e02869a3cf3bda54e62f6542c135fa8259b1"; JSESSIONID=DD114D76D6C422D5332377EA7016DD59] that contained an invalid cookie. That cookie will be ignored.
+ Note: further occurrences of this error will be logged at DEBUG level.
+2019-11-22 00:52:51,162 INFO org.apache.juli.logging.DirectJDKLog [http-nio-9090-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-11-22 00:52:51,162 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-9090-exec-1] Initializing Servlet 'dispatcherServlet'
+2019-11-22 00:52:51,179 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-9090-exec-1] Completed initialization in 15 ms
+2019-11-22 00:53:05,472 INFO org.hibernate.hql.internal.QueryTranslatorFactoryInitiator [http-nio-9090-exec-10] HHH000397: Using ASTQueryTranslatorFactory
+2019-11-22 00:57:17,056 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting InventoryManegementApplication on DESKTOP-LQ0V63B with PID 13040 (E:\java\WorkSpace\inventor_manegement\inventor_manegament\inventory_manegement\target\classes started by PHAN DAT in E:\java\WorkSpace\inventor_manegement\inventor_manegament\inventory_manegement)
+2019-11-22 00:57:17,076 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2019-11-22 00:57:17,258 INFO org.springframework.boot.logging.DeferredLog [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2019-11-22 00:57:17,258 INFO org.springframework.boot.logging.DeferredLog [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2019-11-22 00:57:20,362 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-11-22 00:57:20,833 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Finished Spring Data repository scanning in 419ms. Found 9 repository interfaces.
+2019-11-22 00:57:23,073 INFO org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker [restartedMain] Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$80d19818] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-11-22 00:57:25,618 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 9090 (http)
+2019-11-22 00:57:25,691 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing ProtocolHandler ["http-nio-9090"]
+2019-11-22 00:57:25,717 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting service [Tomcat]
+2019-11-22 00:57:25,718 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.17]
+2019-11-22 00:57:26,660 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2019-11-22 00:57:26,692 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing Spring embedded WebApplicationContext
+2019-11-22 00:57:26,694 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 9435 ms
+2019-11-22 00:57:27,134 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Starting...
+2019-11-22 00:57:28,342 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Start completed.
+2019-11-22 00:57:28,697 INFO org.hibernate.jpa.internal.util.LogHelper [restartedMain] HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-11-22 00:57:28,972 INFO org.hibernate.Version [restartedMain] HHH000412: Hibernate Core {5.3.9.Final}
+2019-11-22 00:57:28,975 INFO org.hibernate.cfg.Environment [restartedMain] HHH000206: hibernate.properties not found
+2019-11-22 00:57:29,391 INFO org.hibernate.annotations.common.reflection.java.JavaReflectionManager [restartedMain] HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-11-22 00:57:29,959 INFO org.hibernate.dialect.Dialect [restartedMain] HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2019-11-22 00:57:32,492 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [restartedMain] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-11-22 00:57:32,546 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2019-11-22 00:57:34,989 WARN org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration [restartedMain] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-11-22 00:57:36,538 INFO org.springframework.security.web.DefaultSecurityFilterChain [restartedMain] Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@6eb64dc1, org.springframework.security.web.context.SecurityContextPersistenceFilter@475e560f, org.springframework.security.web.header.HeaderWriterFilter@582d615a, org.springframework.security.web.authentication.logout.LogoutFilter@13af21ff, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@2200d3c2, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@73d73116, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@6e010714, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@2123c32f, org.springframework.security.web.session.SessionManagementFilter@67ef81f, org.springframework.security.web.access.ExceptionTranslationFilter@11636807, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@8f9e411]
+2019-11-22 00:57:38,018 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting ProtocolHandler ["http-nio-9090"]
+2019-11-22 00:57:38,163 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 9090 (http) with context path ''
+2019-11-22 00:57:38,168 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started InventoryManegementApplication in 22.754 seconds (JVM running for 25.274)
+2019-11-22 00:57:48,925 INFO org.apache.juli.logging.DirectJDKLog [http-nio-9090-exec-1] A cookie header was received [Ipin; CCName=Đạt Ipin; _xsrf=2|d92db04e|bce534e35bcc92d721aff564f758d17a|1572673186; username-localhost-8889="2|1:0|10:1573878701|23:username-localhost-8889|44:YmY5YTM5YmI5YmU1NDVhODg2NjRhOTBiNzE2YjRhZmI=|1544ef33c6755574cd5bebb8a62c5685076c9212cb71c327b6fc095125fad1d1"; username-localhost-8888="2|1:0|10:1573882335|23:username-localhost-8888|44:MmJmY2UxY2RhNDdjNDBlMThmOGYwZjhlMDA3YmVkN2Q=|ee3af6978cfaa918fbb1000e1e24e02869a3cf3bda54e62f6542c135fa8259b1"; JSESSIONID=77B41F5D3BA3015BAC1FA357D40E64BB] that contained an invalid cookie. That cookie will be ignored.
+ Note: further occurrences of this error will be logged at DEBUG level.
+2019-11-22 00:57:48,947 INFO org.apache.juli.logging.DirectJDKLog [http-nio-9090-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-11-22 00:57:48,947 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-9090-exec-1] Initializing Servlet 'dispatcherServlet'
+2019-11-22 00:57:48,977 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-9090-exec-1] Completed initialization in 29 ms
+2019-11-22 00:57:57,561 INFO org.hibernate.hql.internal.QueryTranslatorFactoryInitiator [http-nio-9090-exec-9] HHH000397: Using ASTQueryTranslatorFactory
